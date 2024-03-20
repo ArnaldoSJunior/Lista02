@@ -15,19 +15,10 @@ public class Exercicio08 {
             }
              
             
-               System.out.println("Vetor C (concatenação de A e B): ");
-               for(int i= 0; i<C.length; i++){
+        System.out.println("Vetor C (concatenação de A e B): ");
+            for(int i= 0; i<C.length; i++){
                 System.out.println(C[i]);
-                
-                }
+            }
 
-            
-               
-               
-            
-        
-
-
-    
-}
+            }
   }
